@@ -19,14 +19,3 @@ h1 {
     letter-spacing: 5px;
   }
   
-  .btn:hover {
-   background-color: whitesmoke;
-   color: black;
-   border: rgb(13, 13, 40) 1px solid;
-    /* top: 2px;  */
-  }
-  
-  .btn:active {
-    box-shadow: none;
-    top: 6px; 
-  }  
